@@ -1,0 +1,15 @@
+Part,Quantity,Description,Source,Link,Estimated Price
+ESP32 Development Board,1,Main microcontroller with Wi-Fi/Bluetooth,Amazon India,https://www.amazon.in/s?k=ESP32+development+board,500
+0.96 inch OLED Display,1,Main CyberDeck display,Amazon India,https://www.amazon.in/s?k=0.96+inch+OLED+I2C+display,150
+Push Buttons,4,Physical controls for the CyberDeck,Amazon India,https://www.amazon.in/s?k=12mm+push+button+switch,50
+Active Buzzer,1,Audio feedback and alerts,Amazon India,https://www.amazon.in/s?k=active+buzzer+module,30
+RC522 RFID Module,1,RFID learning and identification experiments,Amazon India,https://www.amazon.in/s?k=RC522+RFID+module,100
+HC-SR501 PIR Sensor,1,Motion sensing experiments,Amazon India,https://www.amazon.in/s?k=HC-SR501+PIR+sensor,80
+Micro SD Card Module,1,Local storage for data and logs,Amazon India,https://www.amazon.in/s?k=Micro+SD+card+module+SPI,80
+Micro SD Card,1,Storage for CyberDeck data,Amazon India,https://www.amazon.in/s?k=32GB+micro+SD+card,350
+3.7V Li-ion Battery,1,Portable power source,Amazon India,https://www.amazon.in/s?k=3.7V+Li-ion+battery+18650,150
+TP4056 Charging Module,1,Li-ion battery charging and protection,Amazon India,https://www.amazon.in/s?k=TP4056+charging+module,40
+Slide Switch,1,Main power switch,Amazon India,https://www.amazon.in/s?k=mini+slide+switch,20
+Jumper Wires,1 set,Internal electrical connections,Amazon India,https://www.amazon.in/s?k=jumper+wires+male+female,100
+Perfboard,1,Prototype electronics mounting,Amazon India,https://www.amazon.in/s?k=prototype+perfboard,50
+3D Printing Filament,1,Material for custom CyberDeck enclosure,Amazon India,https://www.amazon.in/s?k=PLA+3D+printer+filament,1200 
